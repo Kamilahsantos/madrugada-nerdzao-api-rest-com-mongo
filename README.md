@@ -1,4 +1,4 @@
-# madrugada-nerdzao-api-code-com-mongo
+# madrugada-nerdzao-api-rest-com-mongo
 
 para rodar a aplicação:
 
