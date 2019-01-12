@@ -6,7 +6,7 @@ tenha o node, typescript e mongodb instalado na máquina
 
 para instalar os módulos utilizados digite  npm-install
 
-Windows: para configurar a variável de ambiente no package.json fazer a seguinte configuração:
+Windows: para configurar a variável de ambiente, no package.json fazer a seguinte configuração:
 
 Na linha start:
 
